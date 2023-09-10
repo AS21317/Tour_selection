@@ -20,13 +20,19 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## Some Images of game 
-![My Image](./Images/dice1.png)
+
+List of available Tours will be displayed like this 
+![My Image](./Images/tour1.png)
 
 ##### Now click on Play Button and you will land on following page 
 
 
-![My Image](./Images/dice2.png)
+![My Image](./Images/tour2.png)
 
-Click on show rules Button to know game rules 
+Refresh the page when there is no Tour left 
+
+![My Image](./Images/tour3.png)
+
+
 
 Thanks 
