@@ -1,7 +1,6 @@
-# Dice Game
+# Tour Selection
 
-It is a light time pass game 
-
+Select your favorite tour out of available
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/).
